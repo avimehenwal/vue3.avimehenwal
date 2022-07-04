@@ -1,0 +1,19 @@
+{
+  "name": "vue3.avimehenwal",
+  "version": "1.0.0",
+  "description": "vue3 with composition api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avimehenwal/vue3.avimehenwal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avimehenwal/vue3.avimehenwal/issues"
+  },
+  "homepage": "https://github.com/avimehenwal/vue3.avimehenwal#readme"
+}
